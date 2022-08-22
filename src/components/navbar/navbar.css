@@ -1,0 +1,28 @@
+nav {
+    background-color: rgb(207, 132, 34);
+    display: flex;
+    /* justify-content: center; */
+    text-align: center;
+}
+
+nav ul {
+    display: flex;
+    float: right;
+}
+
+nav ul li {
+    padding: 20px;
+    /* margin: 20px; */
+}
+
+li a {
+    text-decoration: none;
+    font-size: 19px;
+    color: black;
+}
+
+.logo {
+    display: flex;
+    float: left;
+    font-size: 20px;
+}
